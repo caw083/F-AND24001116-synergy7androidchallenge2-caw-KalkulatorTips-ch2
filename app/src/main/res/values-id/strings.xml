@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SYNERGYTantangan2</string>
+    <string name="tip_time">Waktu tip</string>
+    <string name="cost_of_service">Biaya Layanan</string>
+    <string name="how_was_the_service">Bagaimana layanan tersebut?</string>
+    <string name="amazing_service">Luar Biasa (20%)</string>
+    <string name="good_service">Bagus (18%)</string>
+    <string name="ok_service">OK (15%)</string>
+    <string name="normal_service">Normal (10%)</string>
+    <string name="poor_service">Buruk (5%)</string>
+    <string name="round_up_tip">Bulatkan tip?</string>
+    <string name="tip_amount">Jumlah Tip</string>
+    <string name="calculate">Hitung</string>
+    <string name="service_payment">Anda harus membayar Rp %.2f</string>
+</resources>

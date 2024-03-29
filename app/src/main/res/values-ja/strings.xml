@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">シナジータンタンガン2</string>
+    <string name="tip_time">チップの時刻</string>
+    <string name="cost_of_service">サービス料金</string>
+    <string name="how_was_the_service">サービスはどうでしたか？</string>
+    <string name="amazing_service">素晴らしい（20％）</string>
+    <string name="good_service">良い（18％）</string>
+    <string name="ok_service">OK（15％）</string>
+    <string name="normal_service">普通（10％）</string>
+    <string name="poor_service">悪い（5％）</string>
+    <string name="round_up_tip">チップを切り上げますか？</string>
+    <string name="tip_amount">チップの金額</string>
+    <string name="calculate">計算する</string>
+    <string name="service_payment">支払い金額は%.2f円です</string>
+</resources>

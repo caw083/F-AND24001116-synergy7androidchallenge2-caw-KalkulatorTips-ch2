@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextViewStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/purple</item>
+        <item name="android:paddingLeft">10sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:text">@string/tip_time</item>
+    </style>
+
+    <style name="EditTextStyle">
+        <item name="android:layout_marginLeft">10sp</item>
+        <item name="android:layout_width">160dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:hint">@string/cost_of_service</item>
+        <item name="android:inputType">numberDecimal</item>
+    </style>
+
+    <style name="ServiceQuestionTextViewStyle">
+        <item name="android:paddingLeft">10sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+
+    <style name="RadioGroupStyle">
+        <item name="android:paddingLeft">20sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="RadioButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:color">@color/tortoise</item>
+    </style>
+
+    <style name="SwitchStyle">
+        <item name="android:paddingLeft">10sp</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:checked">true</item>
+        <item name="android:text">@string/round_up_tip</item>
+        <item name="android:thumbTint">@color/tortoise</item>
+        <item name="android:trackTint">@color/tortoise</item>
+    </style>
+
+    <style name="ButtonStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:text">@string/calculate</item>
+        <item name="android:backgroundTint">@color/purple</item>
+    </style>
+
+    <style name="TipResultTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">12dp</item>
+        <item name="android:text">@string/tip_amount</item>
+    </style>
+
+    <style name="ImageViewStyle">
+        <item name="android:layout_width">273dp</item>
+        <item name="android:layout_height">400dp</item>
+    </style>
+
+    <style name="ButtonContainerStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <style name="ButtonStyle2">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="ParrentStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="ServicePayment">
+        <item name="android:backgroundTint">@color/tortoise</item>
+        <item name="android:paddingLeft">10sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+
+</resources>
